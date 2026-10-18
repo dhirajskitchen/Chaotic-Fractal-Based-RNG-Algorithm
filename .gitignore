@@ -1,0 +1,11 @@
+# Virtual environments (common naming conventions)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment files (holding secrets/API keys)
+.env
+.envrc
